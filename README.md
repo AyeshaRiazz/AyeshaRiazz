@@ -121,9 +121,10 @@ Developed interactive graphics-based systems focusing on human-computer interact
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: chaudhary2005ayesha@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/ayesha-riaz-481541331/
+- 💻 GitHub: https://github.com/AyeshaRiazz
+  
 
 ---
 
