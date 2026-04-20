@@ -30,8 +30,8 @@ My key strengths include problem-solving, attention to detail in UI design, and 
 
 I specialize in designing modern, minimal, and user-friendly interfaces for mobile and web applications. My design process focuses on usability, consistency, and clarity.
 
-- Dribbble: https://dribbble.com/your-username  
-- Behance: https://www.behance.net/your-username  
+- Dribbble: https://dribbble.com/AyeshaRiaz  
+- Behance: https://www.behance.net/ayeshariaz24 
 
 My design work includes mobile application interfaces, web dashboards, user flows, wireframes, and interactive prototypes created in Figma.
 
