@@ -1,11 +1,6 @@
 # Ayesha Riaz
 
-![Status](https://img.shields.io/badge/Status-Active-green)
-![Role](https://img.shields.io/badge/Role-UI%2FUX%20Designer-blue)
-![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-purple)
-![Experience](https://img.shields.io/badge/Level-Student%20Developer-orange)
-
-**BS Computer Science Student (6th Semester)**  
+BS Computer Science Student (6th Semester)  
 Institute of Space and Technology  
 CGPA: 3.95 / 4.00  
 
@@ -15,182 +10,89 @@ UI/UX Designer | Frontend Developer | Mobile Application Developer
 
 ## About Me
 
-I am a Computer Science student with a strong foundation in software development, UI/UX design, and mobile application development. I specialize in creating user-centered digital experiences that combine functionality, performance, and modern design principles.
+I am a Computer Science student with a strong interest in UI/UX design, frontend development, and mobile application development. My focus is on building user-centered, efficient, and scalable digital solutions.
 
-My development approach is based on:
-- Understanding user needs and behavior  
-- Designing intuitive and accessible interfaces  
-- Writing clean and maintainable code  
-- Building scalable and structured applications  
+I combine design thinking with technical implementation to create applications that are both visually clean and functionally effective. I also have academic and practical exposure to Human-Computer Interaction (HCI), software engineering principles, and full-stack development concepts.
 
-I actively explore Human-Computer Interaction (HCI), software architecture, and modern development frameworks to improve both design and engineering quality.
+My key strengths include problem-solving, attention to detail in UI design, and building structured, maintainable applications.
 
 ---
 
 ## Education
 
-| Degree | Institution | Status | CGPA |
-|--------|------------|--------|------|
-| BS Computer Science | Institute of Space and Technology | In Progress (6th Semester) | 3.95 / 4.00 |
+| Degree | Institution | CGPA |
+|--------|------------|------|
+| BS Computer Science | Institute of Space and Technology | 3.95 / 4.00 |
 
 ---
 
 ## Design Portfolio
 
-I focus on designing modern, minimal, and user-friendly interfaces for web and mobile applications.
+I specialize in designing modern, minimal, and user-friendly interfaces for mobile and web applications. My design process focuses on usability, consistency, and clarity.
 
-| Platform | Link |
-|----------|------|
-| Dribbble | https://dribbble.com/your-username |
-| Behance | https://www.behance.net/your-username |
+- Dribbble: https://dribbble.com/your-username  
+- Behance: https://www.behance.net/your-username  
 
-### Design Skills
-
-| Area | Description |
-|------|-------------|
-| UI Design | Clean and modern interface design for apps and web |
-| UX Design | User flows, journey mapping, usability improvement |
-| Wireframing | Low-fidelity to high-fidelity structure design |
-| Prototyping | Interactive prototypes using Figma |
-| Design Systems | Reusable components and consistent UI patterns |
-
-### Design Principles
-
-- Simplicity and clarity in UI  
-- Consistency across components  
-- Accessibility for users  
-- Mobile-first responsive design  
-- User-centered design thinking  
+My design work includes mobile application interfaces, web dashboards, user flows, wireframes, and interactive prototypes created in Figma.
 
 ---
 
 ## Technical Skills
 
 ### Frontend Development
+HTML, CSS, JavaScript, responsive web design, API integration, component-based UI development.
 
-| Skill | Proficiency | Description |
-|------|------------|-------------|
-| HTML5 | Advanced | Semantic structure and layout design |
-| CSS3 | Advanced | Styling, animations, responsive design |
-| JavaScript | Intermediate | Dynamic UI and interactivity |
-| Responsive Design | Advanced | Mobile-first and adaptive layouts |
-| API Integration | Intermediate | Connecting frontend with backend services |
-
----
-
-### Mobile App Development
-
-| Technology | Proficiency | Description |
-|-----------|------------|-------------|
-| Flutter | Advanced | Cross-platform mobile app development |
-| Java (Android) | Intermediate | Native Android application development |
-| Firebase | Intermediate | Authentication, database, backend services |
-| REST APIs | Intermediate | Data communication with backend systems |
-
----
+### Mobile Application Development
+Flutter for cross-platform apps, Java for Android development, Firebase integration, and RESTful APIs.
 
 ### Backend & Databases
+MongoDB for NoSQL data handling, MySQL for relational databases, and Firebase for authentication and real-time database services.
 
-| Technology | Purpose |
-|-----------|--------|
-| MongoDB | NoSQL database for flexible data storage |
-| MySQL | Structured relational database management |
-| Firebase | Realtime database and authentication system |
-
----
-
-### Tools & Technologies
-
-| Tool | Usage |
-|------|------|
-| Figma | UI/UX design and prototyping |
-| Git & GitHub | Version control and project management |
-| VS Code | Development environment |
-| Android Studio | Mobile application development |
-| Postman | API testing and debugging |
+### Tools & Platforms
+Figma, Git, GitHub, Android Studio, VS Code, Postman.
 
 ---
 
 ## Projects
 
 ### Brew & Bite – Cafe Management System
-
-| Field | Details |
-|------|--------|
-| Type | Web Application |
-| Tech Stack | PHP, HTML, CSS, MySQL |
-| Description | A cafe management system designed to handle menu management, order processing, and customer interaction. It focuses on simplicity and efficient workflow for cafe operations. |
+A web-based system developed using PHP, HTML, CSS, and MySQL. It manages cafe operations including menu handling, order processing, and basic customer interaction with a simple and structured interface.
 
 ---
 
 ### Slotly – Appointment Booking App
-
-| Field | Details |
-|------|--------|
-| Type | Mobile Application |
-| Tech Stack | Flutter, Firebase |
-| Description | A smart appointment booking system with an integrated AI-powered health assistant that provides basic health-related guidance and suggestions. |
+A Flutter-based mobile application designed for appointment booking. It includes an AI-powered health assistant that provides basic health-related suggestions and guidance to users.
 
 ---
 
 ### Expense Tracker App
-
-| Field | Details |
-|------|--------|
-| Type | Mobile Application |
-| Tech Stack | Flutter, Firebase |
-| Description | An expense management app that allows users to track daily spending, categorize expenses, and visualize financial habits. |
+A Flutter application that helps users track daily expenses, categorize spending, and manage personal finances through a simple dashboard interface.
 
 ---
 
 ### WildSnap – Image Recognition App
-
-| Field | Details |
-|------|--------|
-| Type | Mobile Application |
-| Tech Stack | Flutter, AI APIs |
-| Description | An AI-powered image recognition app that identifies objects and returns relevant information based on image input. |
+A mobile application built with Flutter that uses AI-based image recognition to identify objects and return relevant information from images.
 
 ---
 
 ### AI Text Summarizer
-
-| Field | Details |
-|------|--------|
-| Type | Desktop Application |
-| Tech Stack | C# |
-| Description | An AI-based text processing tool that summarizes long paragraphs into concise and meaningful summaries. |
+A C# desktop application that processes long text inputs and generates concise summaries using AI-based text processing techniques.
 
 ---
 
 ### UI/UX Design Projects
-
-| Type | Details |
-|------|--------|
-| Scope | Mobile Apps, Websites, Dashboards |
-| Tools | Figma |
-| Focus | User experience, consistency, modern UI systems |
+A collection of interface designs for mobile apps, websites, and dashboards created using Figma, focused on usability, modern layout systems, and consistent design patterns.
 
 ---
 
-### HCI / OpenGL Projects
-
-| Area | Work |
-|------|------|
-| Graphics | OpenGL-based interactive systems |
-| Interaction | User behavior and interface studies |
-| Academic Work | Human-Computer Interaction projects |
+### Human-Computer Interaction (HCI) Projects
+Academic and practical projects based on interactive system design and OpenGL, focusing on user interaction, visual computing, and interface behavior.
 
 ---
 
 ## Current Focus
 
-| Area | Objective |
-|------|----------|
-| UI/UX Design | Advanced design systems and case studies |
-| Mobile Development | Scalable Flutter applications |
-| Web Development | Full-stack MERN applications |
-| Software Engineering | System design and architecture |
+I am currently focused on improving my skills in advanced UI/UX design systems, scalable mobile application development using Flutter, and full-stack development using MERN stack technologies. I am also strengthening my understanding of software architecture and system design principles.
 
 ---
 
@@ -198,23 +100,21 @@ I focus on designing modern, minimal, and user-friendly interfaces for web and m
 
 | Category | Detail |
 |----------|--------|
-| Academic | CGPA 3.95 / 4.00 |
-| Technical | Multiple completed full-stack and mobile projects |
-| Design | Active UI/UX portfolio development |
+| Academic Performance | CGPA 3.95 / 4.00 |
+| Project Experience | Multiple web, mobile, and desktop applications completed |
+| Design Work | Active UI/UX portfolio with multiple interface designs |
 
 ---
 
 ## Contact
 
-| Type | Detail |
-|------|--------|
-| Email | chaudhary2005ayesha@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/ayesha-riaz-481541331 |
-| GitHub | https://github.com/AyeshaRiazz |
-| Dribbble | https://dribbble.com/your-username |
+Email: chaudhary2005ayesha@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ayesha-riaz-481541331  
+GitHub: https://github.com/AyeshaRiazz  
+Dribbble: https://dribbble.com/AyeshaRiaz 
 
 ---
 
-## Motto
+## Professional Statement
 
-Design with purpose. Build with clarity. Deliver with impact.
+I aim to build impactful digital products by combining strong design principles with solid technical development. My goal is to contribute to real-world solutions that are efficient, scalable, and user-focused.
