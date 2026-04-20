@@ -1,133 +1,124 @@
-# 👩‍💻 Ayesha Riaz
+# Ayesha Riaz
 
-🎓 BS Computer Science Student (6th Semester)  
-🏫 Institute of Space and Technology  
-📊 CGPA: 3.95 / 4.00  
-💻 UI/UX Designer | Frontend Developer | Mobile App Developer  
+**BS Computer Science Student (6th Semester)**  
+Institute of Space and Technology  
+CGPA: 3.95 / 4.00  
 
----
-
-## 🚀 About Me
-
-I am a passionate Computer Science student specializing in **UI/UX Design, Frontend Development, and Mobile Application Development**. I focus on creating visually appealing, user-centered, and functional digital products.
-
-My expertise lies in designing modern interfaces, building responsive web applications, and developing mobile apps using both native and cross-platform technologies. I enjoy transforming ideas into interactive digital experiences that solve real-world problems.
-
-Alongside development, I also explore **Human-Computer Interaction (HCI)** concepts and modern software engineering practices.
+UI/UX Designer | Frontend Developer | Mobile App Developer  
 
 ---
 
-## 🎨 UI/UX Design Expertise
+## About Me
 
-I have strong experience in designing clean, modern, and user-friendly interfaces for:
+I am a Computer Science student with a strong focus on UI/UX design, frontend development, and mobile application development. I enjoy building user-centered digital products that combine clean design with functional and efficient implementation.
 
-- 🌐 Website UI/UX Design
-- 📱 Mobile App Interfaces
-- 📊 Dashboard Design Systems
-- 🧩 Wireframing & Prototyping
-- ⚙️ Auto Layout Systems (Figma)
-
-I focus on usability, consistency, and accessibility in every design.
+My work emphasizes usability, accessibility, and modern design principles. Alongside development, I actively explore Human-Computer Interaction (HCI) and software engineering practices to improve the quality and impact of my projects.
 
 ---
 
-## 💻 Frontend Development
+## UI/UX Design
 
-I build responsive and interactive web applications using modern frontend technologies:
+I design intuitive and modern interfaces for web and mobile applications, focusing on usability and consistency.
 
-- HTML, CSS, JavaScript
-- Responsive Web Design
-- Component-based UI development
-- API Integration
-- Modern UI structuring
-
----
-
-## 📱 Mobile App Development
-
-I have experience developing mobile applications using:
-
-- Flutter (Cross-platform apps)
-- Java (Android Development)
-- UI integration with backend services
-- API-based application architecture
+- Website UI/UX Design  
+- Mobile App Design  
+- Dashboard Design Systems  
+- Wireframing and Prototyping  
+- Auto Layout (Figma)  
 
 ---
 
-## 🔗 Backend & Databases
+## Frontend Development
 
-I have worked with multiple backend and database technologies including:
+I develop responsive and interactive web applications using modern frontend technologies.
 
-- MongoDB (NoSQL databases)
-- MySQL (Relational databases)
-- Firebase (Realtime database & authentication)
-- RESTful APIs integration
-
----
-
-## 🧠 Human-Computer Interaction (HCI)
-
-I have developed academic and practical projects based on HCI principles using:
-
-- OpenGL Library
-- Interactive system design
-- User behavior-focused development
-- Visual computing concepts
+- HTML, CSS, JavaScript  
+- Responsive Web Design  
+- Component-based UI Development  
+- API Integration  
+- Clean UI Structuring  
 
 ---
 
-## 🧰 Technical Skills
+## Mobile App Development
 
-- UI/UX Design (Figma, Wireframing, Prototyping)
-- Frontend Development
-- Flutter App Development
-- Java Android Development
-- MERN Stack (Basic to Intermediate)
-- MongoDB, MySQL, Firebase
-- API Integration
-- OpenGL (HCI Projects)
-- Git & GitHub
+Experience in building cross-platform and native mobile applications.
+
+- Flutter (Cross-platform development)  
+- Java (Android development)  
+- API integration and backend connectivity  
+- Firebase integration  
 
 ---
 
-## 📂 Projects
+## Backend & Databases
 
-### 🔹 Multi-Vendor Management System
-A C# and MySQL-based console application simulating a real-world e-commerce platform with vendor and customer modules.
-
-### 🔹 UI/UX Design Projects
-Designed multiple website, mobile app, and dashboard interfaces using Figma with focus on usability and modern design systems.
-
-### 🔹 Mobile Applications
-Developed Flutter and Java-based mobile applications integrated with APIs and backend services.
-
-### 🔹 MERN Stack Projects
-Built full-stack applications using MongoDB, Express, React, and Node.js.
-
-### 🔹 HCI / OpenGL Projects
-Developed interactive graphics-based systems focusing on human-computer interaction concepts.
+- MongoDB (NoSQL)  
+- MySQL (Relational databases)  
+- Firebase (Authentication & Realtime database)  
+- RESTful API integration  
 
 ---
 
+## Human-Computer Interaction (HCI)
 
-## 🎯 Current Focus
+Worked on academic and practical HCI-based projects involving interactive systems and graphical computing.
 
-- Advanced UI/UX Systems Design  
-- Full-Stack Web Development (MERN)  
-- Scalable Mobile App Development  
-- Improving Software Architecture Skills  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: chaudhary2005ayesha@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/ayesha-riaz-481541331/
-- 💻 GitHub: https://github.com/AyeshaRiazz
-  
+- OpenGL-based projects  
+- User interaction design  
+- Visual computing concepts  
 
 ---
 
-## ✨ Motto
+## Technical Skills
 
-*"Design with purpose, develop with precision, and build experiences that matter."*
+- UI/UX Design (Figma, Prototyping)  
+- Frontend Development  
+- Flutter App Development  
+- Android Development (Java)  
+- MERN Stack (Basic to Intermediate)  
+- MongoDB, MySQL, Firebase  
+- REST API Integration  
+- Git & GitHub  
+
+---
+
+## Projects
+
+### Multi-Vendor Management System
+A C# and MySQL-based application simulating a multi-vendor e-commerce system with customer and vendor modules.
+
+### UI/UX Design Projects
+Designed multiple mobile apps, websites, and dashboards using Figma with a focus on usability and modern design systems.
+
+### Mobile Applications
+Developed Flutter and Java-based applications integrated with backend services and APIs.
+
+### MERN Stack Projects
+Built full-stack web applications using MongoDB, Express, React, and Node.js.
+
+### HCI / OpenGL Projects
+Developed interactive graphics-based systems based on Human-Computer Interaction principles.
+
+---
+
+## Current Focus
+
+- Advanced UI/UX systems design  
+- Full-stack web development (MERN)  
+- Scalable mobile application development  
+- Software architecture improvement  
+
+---
+
+## Contact
+
+- Email: chaudhary2005ayesha@gmail.com  
+- LinkedIn: linkedin.com/in/ayesha-riaz-481541331  
+- GitHub: github.com/AyeshaRiazz  
+
+---
+
+## Motto
+
+Design with purpose. Build with precision. Create experiences that matter.
