@@ -131,7 +131,6 @@ A desktop application that converts long text into concise summaries using AI te
 ### 📈 Current Focus
 
 * Advanced UI/UX systems
-* Scalable Flutter architecture
 * Full-stack development (MERN)
 * Software architecture & system design
 
