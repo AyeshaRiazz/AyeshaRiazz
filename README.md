@@ -1,8 +1,9 @@
 # Ayesha Riaz
+UI/UX Designer • Frontend Developer
 
 ---
 
-## 🧩 Who I Am
+## 🧩 Introduction
 
 I’m a Computer Science student who doesn’t just build applications — I craft experiences.
 
