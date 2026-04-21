@@ -1,151 +1,193 @@
 # Ayesha Riaz
 
-## 👩‍🎓 Education & Profile
-
-- **Degree:** BS Computer Science (6th Semester)  
-- **Institute:** Institute of Space and Technology  
-- **CGPA:** 3.95 / 4.00  
-- **Roles:** UI/UX Designer | Frontend Developer | Mobile Application Developer  
+## ✨ Designing Experiences. Engineering Solutions.
 
 ---
 
-## 📌 About Me
+## 🧩 Who I Am
 
-I am a Computer Science student with a strong focus on UI/UX design, frontend development, and mobile application development.
+I’m a Computer Science student who doesn’t just build applications — I craft experiences.
 
-I specialize in building user-centered, efficient, and scalable digital solutions by combining design thinking with technical implementation.
+With a CGPA of **3.95/4.00** and a strong foundation in both **design thinking** and **software development**, I specialize in transforming complex ideas into intuitive, scalable, and visually compelling digital products.
 
-### Core Strengths
-- UI/UX design with attention to usability and consistency  
-- Frontend development using modern web technologies  
-- Mobile application development using Flutter and Java  
-- Problem-solving and structured application design  
-- Understanding of Human-Computer Interaction (HCI) principles  
+I operate at the intersection of:
+
+* 🎨 **Design (UI/UX)** — where user needs come first
+* 💻 **Development** — where ideas become reality
+* 🧠 **Human Behavior (HCI)** — where usability is engineered
+
+My goal is simple: **build products people love to use.**
+
+---
+
+## 👩‍🎓 Education
+
+| Field     | Details                           |
+| --------- | --------------------------------- |
+| Degree    | BS Computer Science               |
+| Institute | Institute of Space and Technology |
+| Semester  | 6th                               |
+| CGPA      | **3.95 / 4.00**                   |
+
+---
+
+## 🚀 Core Expertise
+
+| Area                       | Capabilities                                                   |
+| -------------------------- | -------------------------------------------------------------- |
+| UI/UX Design               | User-centered design, wireframing, prototyping, design systems |
+| Frontend Development       | Responsive design, component-based architecture                |
+| Mobile Development         | Cross-platform apps using Flutter, native Android (Java)       |
+| Problem Solving            | Structured logic, scalable solutions                           |
+| Human-Computer Interaction | Usability, interaction design, behavior-driven interfaces      |
 
 ---
 
 ## 🎨 Design Portfolio
 
-I create modern and minimal UI/UX designs for web and mobile applications with a focus on usability and clarity.
+I focus on **minimal, modern, and highly usable designs** that balance aesthetics with functionality.
 
-### Portfolio Links
-- Dribbble: https://dribbble.com/AyeshaRiaz  
-- Behance: https://www.behance.net/ayeshariaz24  
+| Platform | Link                                                                         |
+| -------- | ---------------------------------------------------------------------------- |
+| Dribbble | [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)           |
+| Behance  | [https://www.behance.net/ayeshariaz24](https://www.behance.net/ayeshariaz24) |
 
-### Design Work Includes
-- Mobile application UI/UX design  
-- Web interface design  
-- Dashboard and admin panel design  
-- Wireframing and user flows  
-- Interactive prototypes using Figma  
+### What I Design
+
+* Mobile Applications
+* Web Interfaces
+* Dashboards & Admin Panels
+* User Flows & Wireframes
+* Interactive Prototypes (Figma)
 
 ---
 
 ## 💻 Technical Skills
 
-### Frontend Development
-- HTML, CSS, JavaScript  
-- Responsive Web Design  
-- API Integration  
-- Component-based UI development  
+### 🖥️ Frontend Development
 
-### Mobile Development
-- Flutter (Cross-platform development)  
-- Java (Android development)  
-- Firebase integration  
-- REST API integration  
+| Skills                |
+| --------------------- |
+| HTML, CSS, JavaScript |
+| Responsive Web Design |
+| API Integration       |
+| Component-based UI    |
 
-### Backend & Databases
-- MongoDB (NoSQL databases)  
-- MySQL (Relational databases)  
-- Firebase (Authentication & real-time database)  
+### 📱 Mobile Development
 
-### Tools & Technologies
-- Figma  
-- Git & GitHub  
-- Android Studio  
-- VS Code  
-- Postman  
+| Skills               |
+| -------------------- |
+| Flutter              |
+| Java (Android)       |
+| Firebase Integration |
 
----
+### 🗄️ Databases
 
-## 📂 Projects
+| Technologies |
+| ------------ |
+| MongoDB      |
+| MySQL        |
+| Firebase     |
 
-### Brew & Bite – Cafe Management System
-- Web-based system built using PHP, HTML, CSS, and MySQL  
-- Manages cafe operations including menu, orders, and customers  
-- Focus on simplicity and efficient workflow  
+### 🛠️ Tools
 
----
-
-### Slotly – Appointment Booking App
-- Flutter-based mobile application  
-- Appointment scheduling system  
-- Includes AI-powered health assistant for basic guidance  
+| Tools          |
+| -------------- |
+| Figma          |
+| Git & GitHub   |
+| Android Studio |
+| VS Code        |
 
 ---
 
-### Expense Tracker App
-- Flutter mobile application  
-- Tracks daily expenses and categorizes spending  
-- Provides simple financial overview dashboard  
+## 🚀 Projects
+
+### ☕ Brew & Bite — Cafe Management System
+
+A web-based system designed to streamline cafe operations including menu management, order processing, and customer handling.
+
+**Tech Stack:** PHP, HTML, CSS, MySQL
+**Focus:** Simplicity, efficiency, usability
 
 ---
 
-### WildSnap – Image Recognition App
-- Flutter application integrated with AI  
-- Identifies objects from images  
-- Returns relevant results using image recognition  
+### 📅 Slotly — Appointment Booking App
+
+A Flutter-based application enabling seamless appointment scheduling with an integrated AI-based health assistant.
+
+**Focus:** Smart interaction, clean UX
 
 ---
 
-### AI Text Summarizer
-- Desktop application built in C#  
-- Converts long text into short summaries  
-- Uses AI-based text processing techniques  
+### 💰 Expense Tracker App
+
+A mobile app for tracking daily expenses with categorized insights and a minimal dashboard.
+
+**Focus:** Clarity and ease of use
 
 ---
 
-### UI/UX Design Projects
-- Designed in Figma  
-- Includes mobile apps, websites, and dashboards  
-- Focus on usability, consistency, and modern design systems  
+### 📸 WildSnap — Image Recognition App
+
+An AI-powered Flutter application that identifies objects from images and returns relevant results.
+
+**Focus:** Practical AI + intuitive UI
 
 ---
 
-### Human-Computer Interaction (HCI) Projects
-- OpenGL-based academic projects  
-- Interactive system design  
-- Focus on user behavior and interface interaction  
+### 🧾 AI Text Summarizer
+
+A desktop application that converts long text into concise summaries using AI techniques.
+
+**Tech:** C#
+**Focus:** Productivity and efficiency
 
 ---
 
-## 🚀 Current Focus
+### 🎨 UI/UX Design Work
 
-- Advanced UI/UX system design  
-- Scalable mobile application development (Flutter)  
-- Full-stack development (MERN stack)  
-- Software architecture and system design improvement  
+* Multiple apps, websites, and dashboards designed in Figma
+* Strong emphasis on usability, consistency, and design systems
+
+---
+
+### 🧪 HCI Projects
+
+* OpenGL-based interactive systems
+* Focus on user interaction and behavior modeling
+
+---
+
+## 📈 Current Focus
+
+* Advanced UI/UX systems
+* Scalable Flutter architecture
+* Full-stack development (MERN)
+* Software architecture & system design
 
 ---
 
 ## 🏆 Achievements
 
-- CGPA: 3.95 / 4.00  
-- Multiple completed projects (web, mobile, desktop)  
-- Active UI/UX design portfolio  
+| Achievement                                  |
+| -------------------------------------------- |
+| CGPA: 3.95 / 4.00                            |
+| Multi-domain projects (Web, Mobile, Desktop) |
+| Active UI/UX portfolio                       |
 
 ---
 
 ## 📫 Contact
 
-- Email: chaudhary2005ayesha@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ayesha-riaz-481541331  
-- GitHub: https://github.com/AyeshaRiazz  
-- Dribbble: https://dribbble.com/AyeshaRiaz  
+| Platform | Link                                                                                                   |
+| -------- | ------------------------------------------------------------------------------------------------------ |
+| Email    | [chaudhary2005ayesha@gmail.com](mailto:chaudhary2005ayesha@gmail.com)                                  |
+| LinkedIn | [https://www.linkedin.com/in/ayesha-riaz-481541331](https://www.linkedin.com/in/ayesha-riaz-481541331) |
+| GitHub   | [https://github.com/AyeshaRiazz](https://github.com/AyeshaRiazz)                                       |
+| Dribbble | [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)                                     |
 
 ---
 
-## 📌 Professional Statement
+## 🌟 Vision
 
-I aim to build impactful digital products by combining strong design principles with solid technical development. My focus is on creating solutions that are efficient, scalable, and user-centered.
+To create digital products that are not only functional but meaningful — where design meets performance, and technology meets human needs.
