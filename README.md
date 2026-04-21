@@ -1,7 +1,5 @@
 # Ayesha Riaz
 
-## ✨ Designing Experiences. Engineering Solutions.
-
 ---
 
 ## 🧩 Who I Am
@@ -14,15 +12,13 @@ I operate at the intersection of:
 
 * 🎨 **Design (UI/UX)** — where user needs come first
 * 💻 **Development** — where ideas become reality
-* 🧠 **Human Behavior (HCI)** — where usability is engineered
 
-My goal is simple: **build products people love to use.**
 
 ---
 
 ## 👩‍🎓 Education
 
-| Field     | Details                           |
+| Detail    | Information                       |
 | --------- | --------------------------------- |
 | Degree    | BS Computer Science               |
 | Institute | Institute of Space and Technology |
@@ -33,13 +29,18 @@ My goal is simple: **build products people love to use.**
 
 ## 🚀 Core Expertise
 
-| Area                       | Capabilities                                                   |
-| -------------------------- | -------------------------------------------------------------- |
-| UI/UX Design               | User-centered design, wireframing, prototyping, design systems |
-| Frontend Development       | Responsive design, component-based architecture                |
-| Mobile Development         | Cross-platform apps using Flutter, native Android (Java)       |
-| Problem Solving            | Structured logic, scalable solutions                           |
-| Human-Computer Interaction | Usability, interaction design, behavior-driven interfaces      |
+* **UI/UX Design:** User-centered design, wireframing, prototyping, design systems
+* **Frontend Development:** Responsive design, component-based architecture
+* **Mobile Development:** Flutter (cross-platform), Android (Java)
+* **Problem Solving:** Structured logic, scalable solutions
+* **Human-Computer Interaction:** Usability and interaction-focused design
+
+--------------------------|-------------|
+| UI/UX Design             | User-centered design, wireframing, prototyping, design systems |
+| Frontend Development     | Responsive design, component-based architecture |
+| Mobile Development       | Cross-platform apps using Flutter, native Android (Java) |
+| Problem Solving          | Structured logic, scalable solutions |
+| Human-Computer Interaction | Usability, interaction design, behavior-driven interfaces |
 
 ---
 
@@ -47,10 +48,8 @@ My goal is simple: **build products people love to use.**
 
 I focus on **minimal, modern, and highly usable designs** that balance aesthetics with functionality.
 
-| Platform | Link                                                                         |
-| -------- | ---------------------------------------------------------------------------- |
-| Dribbble | [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)           |
-| Behance  | [https://www.behance.net/ayeshariaz24](https://www.behance.net/ayeshariaz24) |
+* Dribbble: [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)
+* Behance: [https://www.behance.net/ayeshariaz24](https://www.behance.net/ayeshariaz24)
 
 ### What I Design
 
@@ -64,39 +63,17 @@ I focus on **minimal, modern, and highly usable designs** that balance aesthetic
 
 ## 💻 Technical Skills
 
-### 🖥️ Frontend Development
+**Frontend Development**
+HTML, CSS, JavaScript, Responsive Web Design, API Integration, Component-based UI
 
-| Skills                |
-| --------------------- |
-| HTML, CSS, JavaScript |
-| Responsive Web Design |
-| API Integration       |
-| Component-based UI    |
+**Mobile Development**
+Flutter, Java (Android), Firebase Integration
 
-### 📱 Mobile Development
+**Databases**
+MongoDB, MySQL, Firebase
 
-| Skills               |
-| -------------------- |
-| Flutter              |
-| Java (Android)       |
-| Firebase Integration |
-
-### 🗄️ Databases
-
-| Technologies |
-| ------------ |
-| MongoDB      |
-| MySQL        |
-| Firebase     |
-
-### 🛠️ Tools
-
-| Tools          |
-| -------------- |
-| Figma          |
-| Git & GitHub   |
-| Android Studio |
-| VS Code        |
+**Tools**
+Figma, Git & GitHub, Android Studio, VS Code
 
 ---
 
@@ -151,14 +128,7 @@ A desktop application that converts long text into concise summaries using AI te
 
 ---
 
-### 🧪 HCI Projects
-
-* OpenGL-based interactive systems
-* Focus on user interaction and behavior modeling
-
----
-
-## 📈 Current Focus
+### 📈 Current Focus
 
 * Advanced UI/UX systems
 * Scalable Flutter architecture
@@ -169,22 +139,18 @@ A desktop application that converts long text into concise summaries using AI te
 
 ## 🏆 Achievements
 
-| Achievement                                  |
-| -------------------------------------------- |
-| CGPA: 3.95 / 4.00                            |
-| Multi-domain projects (Web, Mobile, Desktop) |
-| Active UI/UX portfolio                       |
+* CGPA: 3.95 / 4.00
+* Multi-domain projects (Web, Mobile, Desktop)
+* Active UI/UX portfolio
 
 ---
 
 ## 📫 Contact
 
-| Platform | Link                                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------------------ |
-| Email    | [chaudhary2005ayesha@gmail.com](mailto:chaudhary2005ayesha@gmail.com)                                  |
-| LinkedIn | [https://www.linkedin.com/in/ayesha-riaz-481541331](https://www.linkedin.com/in/ayesha-riaz-481541331) |
-| GitHub   | [https://github.com/AyeshaRiazz](https://github.com/AyeshaRiazz)                                       |
-| Dribbble | [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)                                     |
+* Email: [chaudhary2005ayesha@gmail.com](mailto:chaudhary2005ayesha@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/ayesha-riaz-481541331](https://www.linkedin.com/in/ayesha-riaz-481541331)
+* GitHub: [https://github.com/AyeshaRiazz](https://github.com/AyeshaRiazz)
+* Dribbble: [https://dribbble.com/AyeshaRiaz](https://dribbble.com/AyeshaRiaz)
 
 ---
 
